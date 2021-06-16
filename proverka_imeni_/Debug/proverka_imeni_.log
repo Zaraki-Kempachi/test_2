@@ -1,6 +1,0 @@
-﻿  proverka_imeni_.cpp
-c:\users\colds\source\repos\proverka_imeni_\proverka_imeni_.cpp(26): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
-  c:\users\colds\source\repos\proverka_imeni_\proverka_imeni_.cpp(26): note: заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
-  c:\users\colds\source\repos\proverka_imeni_\proverka_imeni_.cpp(26): note: отсутствующий вариативный аргумент "2" требуется для строки форматирования "%c"
-  c:\users\colds\source\repos\proverka_imeni_\proverka_imeni_.cpp(26): note: этот аргумент используется в качестве размера буфера
-  proverka_imeni_.vcxproj -> C:\Users\colds\source\repos\proverka_imeni_\Debug\proverka_imeni_.exe
