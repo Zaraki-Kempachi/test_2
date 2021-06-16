@@ -1,7 +1,0 @@
-﻿  laba4_1.cpp
-c:\users\colds\source\repos\laba4_1\laba4_1.cpp(53): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
-  c:\users\colds\source\repos\laba4_1\laba4_1.cpp(53): note: заполнители и их параметры ожидают переменное число аргументов в количестве 3, но было предоставлено 2
-  c:\users\colds\source\repos\laba4_1\laba4_1.cpp(53): note: отсутствующий вариативный аргумент "3" требуется для строки форматирования "%c"
-  c:\users\colds\source\repos\laba4_1\laba4_1.cpp(53): note: этот аргумент используется в качестве размера буфера
-c:\users\colds\source\repos\laba4_1\laba4_1.cpp(76): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  laba4_1.vcxproj -> C:\Users\colds\source\repos\laba4_1\Debug\laba4_1.exe
