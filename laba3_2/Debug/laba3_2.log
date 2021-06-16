@@ -1,0 +1,8 @@
+﻿  laba3_2.cpp
+c:\users\colds\source\repos\laba3_2\laba3_2.cpp(23): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+  c:\users\colds\source\repos\laba3_2\laba3_2.cpp(23): note: заполнители и их параметры ожидают переменное число аргументов в количестве 3, но было предоставлено 2
+  c:\users\colds\source\repos\laba3_2\laba3_2.cpp(23): note: отсутствующий вариативный аргумент "3" требуется для строки форматирования "%c"
+  c:\users\colds\source\repos\laba3_2\laba3_2.cpp(23): note: этот аргумент используется в качестве размера буфера
+c:\users\colds\source\repos\laba3_2\laba3_2.cpp(46): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\colds\source\repos\laba3_2\laba3_2.cpp(66): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  laba3_2.vcxproj -> C:\Users\colds\source\repos\laba3_2\Debug\laba3_2.exe
