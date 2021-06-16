@@ -1,6 +1,0 @@
-﻿  laba4_3.cpp
-c:\users\colds\source\repos\laba4_3\laba4_3.cpp(24): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
-  c:\users\colds\source\repos\laba4_3\laba4_3.cpp(24): note: заполнители и их параметры ожидают переменное число аргументов в количестве 3, но было предоставлено 2
-  c:\users\colds\source\repos\laba4_3\laba4_3.cpp(24): note: отсутствующий вариативный аргумент "3" требуется для строки форматирования "%c"
-  c:\users\colds\source\repos\laba4_3\laba4_3.cpp(24): note: этот аргумент используется в качестве размера буфера
-  laba4_3.vcxproj -> C:\Users\colds\source\repos\laba4_3\Debug\laba4_3.exe
