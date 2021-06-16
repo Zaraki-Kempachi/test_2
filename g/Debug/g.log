@@ -1,4 +1,0 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (g.vcxproj).  Это может привести к ошибкам очистки и перестроения.
-  g.cpp
-c:\users\colds\source\repos\g\g.cpp(6): error C2664: "int puts(const char *)": невозможно преобразовать аргумент 1 из "char" в "const char *"
-  c:\users\colds\source\repos\g\g.cpp(6): note: Для преобразования из целого типа в указатель требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
